@@ -1,2 +1,6 @@
-# XP_ProgramandoEmEquipe
-Repositório criado para praticar técnicas de programação colaborativa com o grupo que trabalhará no desenvolvimento do TCC do curso técnico de desenvolvimento de sistemas da ETEC de Barueri.
+## Programando em Equipe.
+  Em equipe, vamos construir um simples sistema utilizando HTML/CSS e a linguagem JavaScript.
+  O sistema coletará a idade do usuário e seu gênero e exibirá uma imagem relativa à fase da vida do usuário de forma dinâmica.
+  
+  Objetivo principal:
+  * Aprender como trabalhar com a equipe utilizando versionamento com Git e GitHub.
