@@ -7,9 +7,11 @@
 
 <details> 
   <summary>👨‍🚀 Colaboradores</summary> 
-  [Gustavo Pivatto](https://github.com/GustavoPivatto) 
-  [Valdeci Santos de Miranda](https://github.com/ValdeciMiranda) 
-  [Adriano](https://github.com/Tipiginho23) 
+  [Gustavo Pivatto](https://github.com/GustavoPivatto)
+
+  [Valdeci Santos de Miranda](https://github.com/ValdeciMiranda)
+
+  [Adriano](https://github.com/Tipiginho23)
 </details>
   
 <details> 
