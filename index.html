@@ -9,14 +9,40 @@
 
     <title>Verificador de Idade</title>
 </head>
-    <body class="Fundin">
-    
-    <div class="DivTextoInicial"> 
-        <h1 class="TextoInicial"> Verificador de Idade </h1>
-    </div>
+<body class="Fundin">
+    <div class="DivPrincipal">
+        <div class="DivTextoInicial"> 
+            <h1 class="TextoInicial"> Verificador de Idade </h1>
+        </div>
 
-    
+            <br>
+
+        <div class="DivInput"> 
+            <p class="inputFontePrincipal"> Ano de nascimento: <input class="InputDataDeNascimento" type="number" id="AnoDeNascimento" placeholder="Digite Aqui..." > </p>
+            
+            <p class="inputFontePrincipal"> Gênero: 
+                
+                <input type="radio" name="genero" id="masculino" checked >
+                <label for="masculino"> Masculino </label>
+
+                <input type="radio" name="genero" id="feminino" >
+                <label for="feminino"> Feminino </label>
+
+            </p>
+
+            <input type="submit" value="Verificar" onclick="verificar()">
+
+        </div>
+
+        <div class="inputFontePrincipalv2" id="resultado">
+
+            <h1> show </h1>
+
+        </div> 
+
+    </div>
+        
 
         <script src="./javascript/script.js"></script>
-    </body>
+</body>
 </html>

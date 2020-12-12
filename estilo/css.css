@@ -6,9 +6,12 @@
 .DivTextoInicial{
 
     /*background-color: springgreen;*/
-    padding-left: 40%;
-    padding-right: 40%;
+    /*padding-left: 40%;*/
+    /*padding-right: 40%;*/
     border-radius: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    
 
 
 }
@@ -17,8 +20,34 @@
     text-align: center;
     color: white;
     font-size: 75px;
-    background-color:#98FB98
-    ;
+    background-color:#54FF9F;
     border-radius: 12.5%;
+    
+}
+.DivPrincipal{
 
+    text-align: center;
+    background-color:#00688B;
+    width: 40%;
+    margin: auto;
+
+    
+}
+.inputFontePrincipal{
+
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+.InputDataDeNascimento{
+
+    font-size: 70%;
+
+}
+.inputFontePrincipalv2{
+
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
 }
