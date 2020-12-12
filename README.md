@@ -10,7 +10,6 @@
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» [Gustavo Pivatto](https://github.com/GustavoPivatto)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» [Valdeci Santos de Miranda](https://github.com/ValdeciMiranda)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» [Adriano](https://github.com/Tipiginho23)<br>
 </details>
   
 <details> 
