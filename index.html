@@ -4,9 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=devide-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="stylesheet" type="text/css" href= "estilo/css.css">
+
     <title>Verificador de Idade</title>
 </head>
-<body>
-    <h1>Olá, vou me tornar algo bacana!</h1>
+<body class="Fundin">
+    <div class="DivPrincipal">
+        <div class="DivTextoInicial"> 
+            <h1 class="TextoInicial"> Verificador de Idade </h1>
+        </div>
+
+            <br>
+
+        <div class="DivInput"> 
+            <p class="inputFontePrincipal"> Ano de nascimento: <input class="InputDataDeNascimento" type="number" id="AnoDeNascimento" placeholder="Digite Aqui..." > </p>
+            
+            <p class="inputFontePrincipal"> Gênero: 
+                
+                <input type="radio" name="genero" id="masculino" checked >
+                <label for="masculino"> Masculino </label>
+
+                <input type="radio" name="genero" id="feminino" >
+                <label for="feminino"> Feminino </label>
+
+            </p>
+
+            <input type="submit" value="Verificar" onclick="verificar()">
+
+        </div>
+
+        <div class="inputFontePrincipalv2" id="resultado">
+
+            <h1> show </h1>
+
+        </div> 
+
+    </div>
+        
+
+        <script src="./javascript/script.js"></script>
 </body>
 </html>
