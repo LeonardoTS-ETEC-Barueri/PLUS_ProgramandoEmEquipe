@@ -1,0 +1,15 @@
+• A base HTML - [ Div para o Formulário ] e uma [ Div para o resultado JavaScript ]. 
+» Responsável: Gustavo
+
+
+• CSS - Pra estilizar a base HTML.
+» Responsável: Gustavo
+
+• JavaScript - Função que verificará os dados do formulário da base HTML e gerará dinâmicamente a imagem e o texto condizentes com as opções selecionadas.
+» Responsável: Leonardo
+
+• Edição das imagens - Serão fotos de 5 fases da vida (Bebês/Crianças/Adolescentes/Adultos/Idosos) -> 1 para homem/ 1 para mulher.
+» Responsável: Valdeci
+
+Fotos redondas, fundo transparente, extensão [ .png ].
+Tamanho: 250x250
